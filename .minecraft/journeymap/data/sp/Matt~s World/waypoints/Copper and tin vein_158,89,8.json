@@ -1,0 +1,18 @@
+{
+  "id": "Copper and tin vein_158,89,8",
+  "name": "Copper and tin vein",
+  "icon": "waypoint-normal.png",
+  "x": 158,
+  "y": 89,
+  "z": 8,
+  "r": 251,
+  "g": 153,
+  "b": 2,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

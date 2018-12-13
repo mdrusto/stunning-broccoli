@@ -1,0 +1,18 @@
+{
+  "id": "Prismarine temple_-1372,62,86",
+  "name": "Prismarine temple",
+  "icon": "waypoint-normal.png",
+  "x": -1372,
+  "y": 62,
+  "z": 86,
+  "r": 103,
+  "g": 123,
+  "b": 64,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

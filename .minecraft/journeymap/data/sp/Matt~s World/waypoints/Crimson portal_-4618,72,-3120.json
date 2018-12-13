@@ -1,0 +1,18 @@
+{
+  "id": "Crimson portal_-4618,72,-3120",
+  "name": "Crimson portal",
+  "icon": "waypoint-normal.png",
+  "x": -4618,
+  "y": 72,
+  "z": -3120,
+  "r": 182,
+  "g": 97,
+  "b": 50,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

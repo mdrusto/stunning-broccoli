@@ -1,0 +1,18 @@
+{
+  "id": "Desert temple_-4476,69,-3316",
+  "name": "Desert temple",
+  "icon": "waypoint-normal.png",
+  "x": -4476,
+  "y": 69,
+  "z": -3316,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

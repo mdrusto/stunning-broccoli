@@ -1,0 +1,18 @@
+{
+  "id": "Infernal Hive \u0026 Quartz blocks_2376,38,-2416",
+  "name": "Infernal Hive \u0026 Quartz blocks",
+  "icon": "waypoint-normal.png",
+  "x": 2376,
+  "y": 38,
+  "z": -2416,
+  "r": 254,
+  "g": 254,
+  "b": 135,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    -1
+  ],
+  "persistent": true
+}

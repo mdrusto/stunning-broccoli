@@ -1,0 +1,18 @@
+{
+  "id": "Tetrahedrite_159,84,12",
+  "name": "Tetrahedrite",
+  "icon": "waypoint-normal.png",
+  "x": 159,
+  "y": 84,
+  "z": 12,
+  "r": 46,
+  "g": 142,
+  "b": 66,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
