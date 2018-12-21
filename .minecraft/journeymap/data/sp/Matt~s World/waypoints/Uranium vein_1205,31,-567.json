@@ -1,0 +1,18 @@
+{
+  "id": "Uranium vein_1205,31,-567",
+  "name": "Uranium vein",
+  "icon": "waypoint-normal.png",
+  "x": 1205,
+  "y": 31,
+  "z": -567,
+  "r": 88,
+  "g": 61,
+  "b": 128,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

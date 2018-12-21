@@ -13,7 +13,7 @@ maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:true
-ao:2
+ao:1
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -117,7 +117,7 @@ key_simplyjetpacks.keybind.engine:0
 key_simplyjetpacks.keybind.hover:0
 key_simplyjetpacks.keybind.charger:0
 key_simplyjetpacks.keybind.emergencyhover:0
-key_key.toggle_focus.desc:15
+key_key.toggle_focus.desc:0
 key_bs.sprint.toggle:34
 key_bs.sneak.toggle:0
 key_bs.menu:24
