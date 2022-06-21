@@ -1,4 +1,7 @@
-/.minecraft/saves/
+/.minecraft/saves
 /natives
 *.log.gz
 *.log
+/.minecraft/crash-reports
+/.minecraft/journeymap/data
+/.minecraft/screenshots
